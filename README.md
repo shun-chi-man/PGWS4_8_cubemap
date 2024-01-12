@@ -11,7 +11,8 @@
 ![結果画像4](result4.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
+
+![PGWS4-8 課題](https://github.com/shun-chi-man/PGWS4_8_cubemap/assets/146050674/57f24c0d-a772-4841-85ae-0f67ac84e2f1)
 
 ![シェーダグラフ](node_graph.png)
 

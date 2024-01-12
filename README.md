@@ -14,12 +14,12 @@
 
 ![PGWS4-8 課題](https://github.com/shun-chi-man/PGWS4_8_cubemap/assets/146050674/57f24c0d-a772-4841-85ae-0f67ac84e2f1)
 
-![シェーダグラフ](node_graph.png)
+![LitShaderGraph2](https://github.com/shun-chi-man/PGWS4_8_cubemap/assets/146050674/f34d9139-6c8e-45be-ab79-6ec305d9bea8)
 
 # 自分なりに変更した点
--
--
--
+- LitShaderGraphにつけたキューブマップの回転をY軸回転のみにしました。
+- 回転速度を0.25倍にしました。
+- 空の背景のキューブマップにして、球の位置や画角を調整し、球に後光が差しているような雰囲気にしました。
 
 
 # 進め方
